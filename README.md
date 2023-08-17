@@ -1,2 +1,2 @@
 # Articles
-Articles were created in reference to ArubaOS-CX switches, Comware switches and routers, iMC network management application and networking concepts.
+Articles were created in reference to networking concepts, ArubaOS-CX switches, Comware switches/routers and iMC network management application.
